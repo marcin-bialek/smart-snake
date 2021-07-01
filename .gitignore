@@ -2,3 +2,6 @@
 node_modules
 tmp
 server.js
+.firebase
+.firebaserc
+firebase.json
